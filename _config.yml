@@ -1,16 +1,35 @@
-# Site settings
 title: Yoyo's Blog
-#SEOTitle: YOYOµÄ²©¿Í | BY Sophia
-#header-img: img/post-bg-swift.jpg
 email: 653781720@qq.com
 description: "Keep moving and keep thinking!"
-keyword: "JAVA,Git,Web Crawler"
-url: "http://Sophia99.github.io/MyBlog"          # your host, for absolute URL
-#baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-baseurl: /MyBlog
-github_repo: "https://sophia99.github.io/MyBlog" # you code repository
+baseurl: "/MyBlog" # the subpath of your site, e.g. /blog
+url: "http://Sophia99.github.io/MyBlog" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: jekyllrb
+github_username:  Sophia99
 
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
 
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
 
 
 
