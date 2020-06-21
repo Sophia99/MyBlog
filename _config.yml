@@ -21,14 +21,16 @@
 title: Yoyo's Blog
 SEOTile: Yoyo's Blog | Awesome Blog
 email: 653781720@qq.com
+header-img: img/post-bg-universe.jpg
 description: Take Actions and Be An Awesome Girl!!!! 
 author: Yoyo
+keyword: "git"
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://sophia99.github.io/MyBlog" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  Sophia99
 
-#Siderbar settings
+#Siderbar settings 
 sidebar: true
 sidebar-about-description: "To be a better me!"
 sidebar-avatar: /img/avatar_g.jpg
